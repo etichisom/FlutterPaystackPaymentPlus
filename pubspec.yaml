@@ -10,20 +10,20 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.13.4
-  intl: ^0.17.0
+  http:
+  intl:
 #  meta: ^1.8.0
-  async: ^2.8.2
+  async:
   # Required for Dart Encryption
-  basic_utils: ^4.2.2
-  pointycastle: ^3.6.0
-  webview_flutter: ^3.0.4
+  basic_utils:
+  pointycastle:
+  webview_flutter:
 
   # For Requests for Device
-  platform_info: ^3.2.0
-  device_info_plus: ^8.0.0
-  webview_flutter_web: ^0.1.0+3
-  package_info_plus: ^3.0.2
+  platform_info:
+  device_info_plus:
+  webview_flutter_web:
+  package_info_plus:
 
 dev_dependencies:
   flutter_test:
